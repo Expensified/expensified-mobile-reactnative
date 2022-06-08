@@ -1,0 +1,6 @@
+module Pods_expensified_expensifiedTests {
+  umbrella header "Pods-expensified-expensifiedTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

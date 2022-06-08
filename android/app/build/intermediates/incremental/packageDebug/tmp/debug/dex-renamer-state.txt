@@ -1,0 +1,4 @@
+#Wed Jun 08 02:13:23 CDT 2022
+base.0=/Users/mukund/Desktop/Expense Tracker/expensified-react-native/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
